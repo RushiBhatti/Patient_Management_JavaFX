@@ -1,5 +1,8 @@
 # Patient Management App (JavaFX)
 
+I used JavaFX for creating beautiful UI, adding some effects and JAVA for writing backend part of this app.
+
+Features :
 - Add new patients with the disease priority
 - Search for specific patients quickly and easily
 - View all patients in the system at a glance
